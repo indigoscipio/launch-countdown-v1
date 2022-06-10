@@ -1,0 +1,22 @@
+{
+  "name": "launch-countdown-v1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scss": "node-sass -w scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indigoscipio/launch-countdown-v1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/indigoscipio/launch-countdown-v1/issues"
+  },
+  "homepage": "https://github.com/indigoscipio/launch-countdown-v1#readme",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}

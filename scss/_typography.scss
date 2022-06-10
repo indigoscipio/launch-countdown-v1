@@ -1,0 +1,25 @@
+.title {
+  text-transform: uppercase;
+  font-size: $fs-20;
+  letter-spacing: 0.4rem;
+  padding-top: 9.6rem;
+}
+
+.time-heading {
+  font-size: $fs-36;
+  color: $red;
+
+  @include md {
+    font-size: $fs-80;
+  }
+}
+.time-label {
+  text-transform: uppercase;
+  letter-spacing: 0.4rem;
+  font-size: $fs-8;
+  margin-top: 1.2rem;
+
+  @include md {
+    font-size: $fs-16;
+  }
+}
